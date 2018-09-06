@@ -1,0 +1,91 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    margin:0;
+    padding: 0;
+    background-color: burlywood;
+}
+.whole {
+    height: 100vh;
+    width: 100vw;
+    background-color: yellow;
+    margin: 0;
+    padding: 0;
+}
+.div1 {
+    width: 100vw;
+    height: 25vh;
+    background-color: red;
+    margin: 0;
+    padding: 0;
+    
+    border-bottom:0.5vw solid white;
+}
+.div1 h4 {
+    text-align: center;
+    font-family: fantasy;
+    margin-top: 0px;
+    padding-top: 15px;
+}
+
+.content {
+    height: 50vh;
+    width: 100vw;
+    padding: 0;
+    margin: 0;
+    background-color: chartreuse;
+}
+.navi {
+    height: 50vh;
+    width: 25vw;
+    float: left;
+    background-color: brown;
+    margin: 0;
+    padding:0;
+}
+.navi h4 {
+    text-align: center;
+    padding: 0;
+    
+}
+.Arti {
+    height: 50vh;
+    width: 48vw;
+    float: left;
+    border-left: 1vw solid white;
+    border-right: 1vw solid white;
+    background-color: blue;
+    margin:0;
+    padding:0; 
+}
+.Arti h4 {
+    text-align: center;
+    padding: 0;
+}
+.Ads {
+    height: 50vh;
+    width:25vw;
+    background-color: blueviolet;
+    float: left;
+    displadefafy: inline-block;
+    margin:0;
+    padding:0;
+}
+.Ads h4 {
+    text-align: center;
+    padding: 0;
+    
+}
+.footer {
+    height: 25vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    border-top: 0.5vw solid white;
+    float: left;
+    background-color: darkgoldenrod;
+}
+.footer h4 {
+    text-align: center;
+     
+}
